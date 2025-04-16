@@ -21,7 +21,7 @@ Throughout the challenge, the following concepts and techniques were applied:
 - **Machine Learning Models**:
   - Logistic Regression
   - Decision Tree
-  - Random Forest and XGBoost (experimental)
+  - Random Forest
 
 - **Feature Engineering**:
   - Variable transformation and creation of new features
