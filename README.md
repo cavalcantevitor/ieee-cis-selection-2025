@@ -1,8 +1,8 @@
 # IEEE CIS Selection Challenge 2025 – Diabetes Prediction
 
-This repository contains my solution for the practical assessment of the **IEEE CIS (Computational Intelligence Society)** selection process at the **University of Brasília**, 2025 edition.
+This repository contains my solution for the practical assessment of the IEEE CIS (Computational Intelligence Society) selection process at the University of Brasília, 2025 edition.
 
-The challenge aimed to apply knowledge in **data science**, **statistics**, and **machine learning** to analyze clinical data and predict diabetes diagnoses in female patients from the Pima Indian heritage. The entire project was developed in Python using tools such as **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, and **Scikit-Learn**.
+The challenge aimed to apply knowledge in data science, statistics, and machine learning to analyze clinical data and predict diabetes diagnoses in female patients from the Pima Indian heritage. The entire project was developed in **Python** using tools such as **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, and **Scikit-Learn**, and was entirely implemented and documented in a Jupyter Notebook.
 
 ---
 
