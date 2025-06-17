@@ -55,8 +55,8 @@ The assessment was structured into the following 11 questions:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-
+    https://github.com/cavalcantevitor/ieee-cis-selection-2025.git
+   
 2. Open the main notebook IEEE_CIS_Challenge_2025.ipynb using Google Colab or Jupyter.
 
 3. Make sure the following Python libraries are available: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`
